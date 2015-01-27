@@ -1,0 +1,165 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>standings</title>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="description" content="Curling Standings" />
+<meta name="keywords" content="charby, orleans, ottawa, paul" />
+  <link rel="stylesheet" type="text/css" media="screen" href="css/curling.css" />
+</head>
+<body id="index_page"> 
+	<div id="wrapper">
+		<div id="header">
+        	<h1>The Sunday Morning Curling Fun League</h1>
+        </div>    
+		<ul id="navigation">
+            <li id="index"><a href="index.html">Curling Home</a></li>
+            <li id="teams"><a href="teams.html">Teams</a></li>
+            <li id="schedule"><a href="schedule.html">Schedule</a></li>
+            <li id="standings"><a href="standings.html">Standings</a></li>
+            <li id="scores"><a href="scores.html">Scores</a></li>
+        </ul>
+
+	<div>
+
+	<div>
+	<h3>Standings after the regular season which ended 18 Jan 2015</h3>
+	</div>
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;}
+.tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;}
+.tg .tg-d1wh{background-color:#ce6301;text-align:center}
+.tg .tg-s6z2{text-align:center}
+</style>
+<table class="tg">
+  <tr>
+    <th class="tg-d1wh">Rank</th>
+    <th class="tg-d1wh">Team</th>
+    <th class="tg-d1wh">Wins</th>
+    <th class="tg-d1wh">Losses</th>
+    <th class="tg-d1wh">Ties</th>
+    <th class="tg-d1wh">Ends Won</th>
+    <th class="tg-d1wh">Score for</th>
+    <th class="tg-d1wh">Score against</th>
+    <th class="tg-d1wh">Points</th>
+  </tr>
+  <tr>
+    <th class="tg-d1wh">1</th>
+    <th class="tg-d1wh">Gary</th>
+    <th class="tg-d1wh">8</th>
+    <th class="tg-d1wh">1</th>
+    <th class="tg-d1wh">0</th>
+    <th class="tg-d1wh">42</th>
+    <th class="tg-d1wh">72</th>
+    <th class="tg-d1wh">30</th>
+    <th class="tg-d1wh">34</th>
+  </tr>
+  <tr>
+    <th class="tg-d1wh">2</th>
+    <th class="tg-d1wh">Michel</th>
+    <th class="tg-d1wh">5</th>
+    <th class="tg-d1wh">4</th>
+    <th class="tg-d1wh">0</th>
+    <th class="tg-d1wh">38</th>
+    <th class="tg-d1wh">70</th>
+    <th class="tg-d1wh">48</th>
+    <th class="tg-d1wh">28</th>
+  </tr>
+  <tr>
+    <th class="tg-d1wh">2</th>
+    <th class="tg-d1wh">Glenn</th>
+    <th class="tg-d1wh">5</th>
+    <th class="tg-d1wh">4</th>
+    <th class="tg-d1wh">0</th>
+    <th class="tg-d1wh">34</th>
+    <th class="tg-d1wh">58</th>
+    <th class="tg-d1wh">46</th>
+    <th class="tg-d1wh">28</th>
+  </tr>
+  <tr>
+    <th class="tg-d1wh">2</th>
+    <th class="tg-d1wh">Andre</th>
+    <th class="tg-d1wh">5</th>
+    <th class="tg-d1wh">4</th>
+    <th class="tg-d1wh">0</th>
+    <th class="tg-d1wh">34</th>
+    <th class="tg-d1wh">62</th>
+    <th class="tg-d1wh">56</th>
+    <th class="tg-d1wh">28</th>
+  </tr>
+  <tr>
+    <th class="tg-d1wh">2</th>
+    <th class="tg-d1wh">Paul</th>
+    <th class="tg-d1wh">5</th>
+    <th class="tg-d1wh">4</th>
+    <th class="tg-d1wh">0</th>
+    <th class="tg-d1wh">35</th>
+    <th class="tg-d1wh">61</th>
+    <th class="tg-d1wh">57</th>
+    <th class="tg-d1wh">28</th>
+  </tr>
+  <tr>
+    <th class="tg-d1wh">2</th>
+    <th class="tg-d1wh">Matt</th>
+    <th class="tg-d1wh">5</th>
+    <th class="tg-d1wh">4</th>
+    <th class="tg-d1wh">0</th>
+    <th class="tg-d1wh">32</th>
+    <th class="tg-d1wh">66</th>
+    <th class="tg-d1wh">64</th>
+    <th class="tg-d1wh">28</th>
+  </tr>
+  <tr>
+    <th class="tg-d1wh">3</th>
+    <th class="tg-d1wh">Steve</th>
+    <th class="tg-d1wh">4</th>
+    <th class="tg-d1wh">5</th>
+    <th class="tg-d1wh">0</th>
+    <th class="tg-d1wh">35</th>
+    <th class="tg-d1wh">51</th>
+    <th class="tg-d1wh">68</th>
+    <th class="tg-d1wh">26</th>
+  </tr>
+  <tr>
+    <th class="tg-d1wh">3</th>
+    <th class="tg-d1wh">Doug</th>
+    <th class="tg-d1wh">4</th>
+    <th class="tg-d1wh">5</th>
+    <th class="tg-d1wh">0</th>
+    <th class="tg-d1wh">24</th>
+    <th class="tg-d1wh">44</th>
+    <th class="tg-d1wh">68</th>
+    <th class="tg-d1wh">26</th>
+  </tr>
+  <tr>
+    <th class="tg-d1wh">4</th>
+    <th class="tg-d1wh">Kevin</th>
+    <th class="tg-d1wh">3</th>
+    <th class="tg-d1wh">6</th>
+    <th class="tg-d1wh">0</th>
+    <th class="tg-d1wh">28</th>
+    <th class="tg-d1wh">50</th>
+    <th class="tg-d1wh">66</th>
+    <th class="tg-d1wh">24</th>
+  </tr>
+  <tr>
+    <th class="tg-d1wh">5</th>
+    <th class="tg-d1wh">Al</th>
+    <th class="tg-d1wh">1</th>
+    <th class="tg-d1wh">8</th>
+    <th class="tg-d1wh">0</th>
+    <th class="tg-d1wh">24</th>
+    <th class="tg-d1wh">42</th>
+    <th class="tg-d1wh">73</th>
+    <th class="tg-d1wh">20</th>
+  </tr>
+</table>
+	<div class="clear">
+		<p>Win = 4 points</p>
+		<p>Loss = 2 points</p>
+		<p>Tie = 3 points</p>
+
+</body>
+</html>
